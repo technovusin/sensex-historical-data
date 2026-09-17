@@ -26,3 +26,8 @@ Each CSV file contains the following columns:
 | High | Highest price during the candle |
 | Low | Lowest price during the candle |
 | Close | Closing price for the candle |
+
+
+## NIFTY OHLC Data
+
+If you are looking for NIFTY index OHLC data, it can be downloaded at [https://github.com/technovusin/nifty50-historical-data](https://github.com/technovusin/nifty50-historical-data) 
