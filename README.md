@@ -5,7 +5,7 @@ Historical SENSEX OHLC intraday data, including 1-minute candles from 2023 and 1
 ## Data Structure
 
 ```
-nifty/
+sensex/
 ├── 1min/          # 1-minute candlestick data
 │   ├── 2023-2025/ # Full years
 │   └── 2026/      # From 01 January 2026
