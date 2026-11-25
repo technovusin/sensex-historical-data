@@ -79,6 +79,7 @@ WHERE ts >= '2024-01-01';
 2. Rebuild the Parquet files using the command above.
 3. Report suspected gaps or corrections through the repository's issue tracker, including the timeframe, date and supporting details.
 
-## NIFTY50 OHLC Data
+## Related Datasets
 
-For NIFTY50 index OHLC data, see [nifty50-historical-data](https://github.com/technovusin/nifty50-historical-data).
+- NIFTY Index OHLC data: [https://github.com/technovusin/nifty50-historical-data](https://github.com/technovusin/nifty50-historical-data)
+- BANKNIFTY Index OHLC data: [https://github.com/technovusin/banknifty-historical-data](https://github.com/technovusin/banknifty-historical-data)
